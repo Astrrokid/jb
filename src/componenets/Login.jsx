@@ -13,17 +13,21 @@ const Login=()=>{
                         <input type="username" />
                     </div>
                     <div className="un">
-                        <label htmlFor="">Username</label>
-                        <input type="username" />
+                        <label htmlFor="">Email Address</label>
+                        <input type="email" />
                     </div>
                     <div className="un">
-                        <label htmlFor="">Username</label>
-                        <input type="username" />
+                        <label htmlFor="">Phone Number</label>
+                        <input type="number" />
                     </div>
                     <div className="un">
-                        <label htmlFor="">Username</label>
-                        <input type="username" />
+                        <label htmlFor="">Password</label>
+                        <input type="passsword" />
                     </div>
+                    <div className="checkbox">
+                        <input type="checkbox" />
+                    </div>
+                    <button>Submit</button>
                 </form>
             </div>
         </div>
