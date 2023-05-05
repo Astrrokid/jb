@@ -1,4 +1,4 @@
-import Login from './componenets/Login.jsx';
+import Login from './components/Login.jsx';
 import './App.css';
 
 function App() {
